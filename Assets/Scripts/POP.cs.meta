@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ec5136b4ba3b0744b2f5f8e76932101
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lightning: {fileID: 3232473530411461183, guid: 70d973b3fce4c6642b5ac8baeaf774c7, type: 3}
+  - lightningRb: {fileID: 7187670609613167175, guid: 70d973b3fce4c6642b5ac8baeaf774c7, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

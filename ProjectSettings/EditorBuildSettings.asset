@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Brielle.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 0
+    path: Assets/Scenes/Items.unity
+    guid: b02ed767b4ae544408bf512fbf578521
+  - enabled: 0
+    path: Assets/Scenes/Rayan.unity
+    guid: c4110f16d9651be41a1897408146be69
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Start Screen.unity
+    guid: ac7ac181c2dabc04b8df083b1ab0d91f
+  - enabled: 0
+    path: Assets/Scenes/UI Scenes/Instructions.unity
+    guid: 3eb71542b353f9445b3448efd7fc8851
+  - enabled: 1
+    path: Assets/Scenes/Patrick Work.unity
+    guid: e5bb58708341451468fb67bc06a46722
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/End Game.unity
+    guid: 57874c6eeab66994bbc8b55a318ba363
+  - enabled: 0
+    path: Assets/Scenes/UI Scenes/Credits.unity
+    guid: f340842180b547e45953bef38860dca1
+  m_configObjects: {}
